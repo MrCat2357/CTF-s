@@ -1,0 +1,7 @@
+# Conexão ssh
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+# Aceitamos o 'yes' e passamos a senha bandit0
+# Ao conseguir acesso
+ls
+cat readme
+# NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
