@@ -1,0 +1,7 @@
+# Uma vez logado no level anterior
+ls
+cat readme
+# NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+# logaremos agora no bandit1
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+# Passamos NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL como senha
