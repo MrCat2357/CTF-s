@@ -1,0 +1,8 @@
+# Para ver os arquivos
+ls
+# spaces in this filename
+# Para abrir esse arquivo
+cat "spaces in this filename"
+# aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+# Logamos no ssh do bandit3 passando esse resultado como senha
+ssh bandit3@bandit.labs.overthewire.org -p 2220
