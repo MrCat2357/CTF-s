@@ -1,0 +1,8 @@
+# Arquivos no terminal
+ld
+# -
+# Para abrir um dashed-document
+cat ./-
+# rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+# logamos no ssh bandit2 passando esse último resultado como senha
+ssh bandit2@bandit.labs.overthewire.org -p 2220
