@@ -1,0 +1,13 @@
+# Para ver os arquivos/diretórios
+ls
+# inhere
+# é um diretório
+cd inhere
+ls
+# Resposta vazia
+ls -a
+# . .. .hidden
+cat .hidden
+# 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+# Logamos no ssh bandit4 passando esse último como senha
+ssh bandit3@bandit.labs.overthewire.org -p 2220
