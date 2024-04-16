@@ -1,0 +1,14 @@
+# Para ver os arquivos/diretórios
+~$ ls
+# inhere
+~$ cd inhere
+~/inhere$ ls
+# -file00 -file01 -file02 -file03 -file04 -file05 -file06 -file07 -file08 -file09
+# Pra não abrirmos um por um, façamos um script pequeno que abra todos de
+# maneira automática
+~/inhere$ for palavra in $(ls); do echo "abrindo o $palavra"; cat ./$palavra; done
+# O único que é "readable" é o -file07
+abrindo o -file07
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+# Logamos no ssh bandit5 com essa chave
+ssh bandit5@bandit.labs.overthewire.org -p 2220
