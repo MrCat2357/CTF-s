@@ -1,0 +1,221 @@
+# Para ver os arquivos/diretórios
+~$ ls
+# inhere
+~$ cd inhere
+~/inhere$ ls
+maybehere00  maybehere02  maybehere04  maybehere06  maybehere08  maybehere10  maybehere12  maybehere14  maybehere16  maybehere18
+maybehere01  maybehere03  maybehere05  maybehere07  maybehere09  maybehere11  maybehere13  maybehere15  maybehere17  maybehere19
+# Para listarmos todos os tamanhos apenas em bytes dos arquivos presentes no diretório:
+~/inhere$ du -hab
+4821    ./maybehere14/.file3
+871     ./maybehere14/spaces file2
+8351    ./maybehere14/-file2
+4282    ./maybehere14/-file1
+3756    ./maybehere14/-file3
+376     ./maybehere14/spaces file3
+3427    ./maybehere14/.file1
+1382    ./maybehere14/spaces file1
+1503    ./maybehere14/.file2
+32865   ./maybehere14
+3798    ./maybehere09/.file3
+8716    ./maybehere09/spaces file2
+774     ./maybehere09/-file2
+3628    ./maybehere09/-file1
+7961    ./maybehere09/-file3
+7569    ./maybehere09/spaces file3
+6763    ./maybehere09/.file1
+5301    ./maybehere09/spaces file1
+8517    ./maybehere09/.file2
+57123   ./maybehere09
+4802    ./maybehere00/.file3
+6850    ./maybehere00/spaces file2
+9388    ./maybehere00/-file2
+1039    ./maybehere00/-file1
+7378    ./maybehere00/-file3
+1915    ./maybehere00/spaces file3
+551     ./maybehere00/.file1
+6118    ./maybehere00/spaces file1
+7836    ./maybehere00/.file2
+49973   ./maybehere00
+5094    ./maybehere17/.file3
+3387    ./maybehere17/spaces file2
+1791    ./maybehere17/-file2
+1133    ./maybehere17/-file1
+4422    ./maybehere17/-file3
+6381    ./maybehere17/spaces file3
+895     ./maybehere17/.file1
+8361    ./maybehere17/spaces file1
+8341    ./maybehere17/.file2
+43901   ./maybehere17
+8261    ./maybehere11/.file3
+503     ./maybehere11/spaces file2
+4559    ./maybehere11/-file2
+1211    ./maybehere11/-file1
+8854    ./maybehere11/-file3
+8845    ./maybehere11/spaces file3
+452     ./maybehere11/.file1
+3147    ./maybehere11/spaces file1
+2501    ./maybehere11/.file2
+42429   ./maybehere11
+742     ./maybehere15/.file3
+51      ./maybehere15/spaces file2
+9499    ./maybehere15/-file2
+8794    ./maybehere15/-file1
+6299    ./maybehere15/-file3
+1637    ./maybehere15/spaces file3
+2159    ./maybehere15/.file1
+1623    ./maybehere15/spaces file1
+279     ./maybehere15/.file2
+35179   ./maybehere15
+4585    ./maybehere05/.file3
+2420    ./maybehere05/spaces file2
+5959    ./maybehere05/-file2
+2346    ./maybehere05/-file1
+2572    ./maybehere05/-file3
+8585    ./maybehere05/spaces file3
+3201    ./maybehere05/.file1
+880     ./maybehere05/spaces file1
+5917    ./maybehere05/.file2
+40561   ./maybehere05
+3792    ./maybehere01/.file3
+4543    ./maybehere01/spaces file2
+288     ./maybehere01/-file2
+6028    ./maybehere01/-file1
+9641    ./maybehere01/-file3
+8834    ./maybehere01/spaces file3
+8944    ./maybehere01/.file1
+4139    ./maybehere01/spaces file1
+3070    ./maybehere01/.file2
+53375   ./maybehere01
+142     ./maybehere04/.file3
+2491    ./maybehere04/spaces file2
+2619    ./maybehere04/-file2
+4410    ./maybehere04/-file1
+2117    ./maybehere04/-file3
+6002    ./maybehere04/spaces file3
+2440    ./maybehere04/.file1
+5532    ./maybehere04/spaces file1
+6144    ./maybehere04/.file2
+35993   ./maybehere04
+1148    ./maybehere16/.file3
+3146    ./maybehere16/spaces file2
+5301    ./maybehere16/-file2
+4277    ./maybehere16/-file1
+8085    ./maybehere16/-file3
+7509    ./maybehere16/spaces file3
+5426    ./maybehere16/.file1
+9773    ./maybehere16/spaces file1
+8472    ./maybehere16/.file2
+57233   ./maybehere16
+1997    ./maybehere07/.file3
+9064    ./maybehere07/spaces file2
+2488    ./maybehere07/-file2
+3663    ./maybehere07/-file1
+3362    ./maybehere07/-file3
+1022    ./maybehere07/spaces file3
+3065    ./maybehere07/.file1
+4130    ./maybehere07/spaces file1
+1033    ./maybehere07/.file2
+33920   ./maybehere07
+2961    ./maybehere10/.file3
+3570    ./maybehere10/spaces file2
+1991    ./maybehere10/-file2
+1052    ./maybehere10/-file1
+1237    ./maybehere10/-file3
+2155    ./maybehere10/spaces file3
+7092    ./maybehere10/.file1
+8269    ./maybehere10/spaces file1
+99      ./maybehere10/.file2
+32522   ./maybehere10
+6965    ./maybehere13/.file3
+952     ./maybehere13/spaces file2
+1423    ./maybehere13/-file2
+1359    ./maybehere13/-file1
+3014    ./maybehere13/-file3
+4389    ./maybehere13/spaces file3
+5258    ./maybehere13/.file1
+3952    ./maybehere13/spaces file1
+8952    ./maybehere13/.file2
+40360   ./maybehere13
+2217    ./maybehere08/.file3
+3693    ./maybehere08/spaces file2
+3825    ./maybehere08/-file2
+1077    ./maybehere08/-file1
+2650    ./maybehere08/-file3
+9138    ./maybehere08/spaces file3
+8169    ./maybehere08/.file1
+215     ./maybehere08/spaces file1
+747     ./maybehere08/.file2
+35827   ./maybehere08
+7953    ./maybehere02/.file3
+8488    ./maybehere02/spaces file2
+3511    ./maybehere02/-file2
+3801    ./maybehere02/-file1
+4932    ./maybehere02/-file3
+2275    ./maybehere02/spaces file3
+6351    ./maybehere02/.file1
+6746    ./maybehere02/spaces file1
+2577    ./maybehere02/.file2
+50730   ./maybehere02
+154     ./maybehere18/.file3
+6348    ./maybehere18/spaces file2
+77      ./maybehere18/-file2
+9697    ./maybehere18/-file1
+2306    ./maybehere18/-file3
+7040    ./maybehere18/spaces file3
+5702    ./maybehere18/.file1
+7334    ./maybehere18/spaces file1
+2084    ./maybehere18/.file2
+44838   ./maybehere18
+2282    ./maybehere03/.file3
+3385    ./maybehere03/spaces file2
+6595    ./maybehere03/-file2
+315     ./maybehere03/-file1
+8275    ./maybehere03/-file3
+9234    ./maybehere03/spaces file3
+9769    ./maybehere03/.file1
+2190    ./maybehere03/spaces file1
+8880    ./maybehere03/.file2
+55021   ./maybehere03
+2418    ./maybehere06/.file3
+4251    ./maybehere06/spaces file2
+1076    ./maybehere06/-file2
+5731    ./maybehere06/-file1
+3443    ./maybehere06/-file3
+8065    ./maybehere06/spaces file3
+1271    ./maybehere06/.file1
+4073    ./maybehere06/spaces file1
+8976    ./maybehere06/.file2
+43400   ./maybehere06
+1022    ./maybehere12/.file3
+2460    ./maybehere12/spaces file2
+251     ./maybehere12/-file2
+9678    ./maybehere12/-file1
+9076    ./maybehere12/-file3
+1639    ./maybehere12/spaces file3
+5815    ./maybehere12/.file1
+2157    ./maybehere12/spaces file1
+8244    ./maybehere12/.file2
+44438   ./maybehere12
+494     ./maybehere19/.file3
+8785    ./maybehere19/spaces file2
+5594    ./maybehere19/-file2
+6302    ./maybehere19/-file1
+7965    ./maybehere19/-file3
+2307    ./maybehere19/spaces file3
+7209    ./maybehere19/.file1
+7186    ./maybehere19/spaces file1
+4740    ./maybehere19/.file2
+54678   ./maybehere19
+888462  .
+
+# A ideia é concatenar com um grep
+~/inhere$ du -hab | grep "1033"
+1033    ./maybehere07/.file2
+
+# Fomos até esse diretório e vimos que o .file02 é um arquivo escondido
+~/inhere/maybehere07$ cat .file2
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
+# Logamos no ssh do bandit6 com essas credenciais
+ssh bandit6@bandit.labs.overthewire.org -p 2220
