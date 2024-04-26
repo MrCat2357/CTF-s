@@ -17,8 +17,8 @@ readme
 bandit0@bandit:~$ cat readme
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ~~~
-Para sairmos do level anterior usamos `CRTRL + d`/n 
-Usamos essa senha para logarmos no bandit1:
+Para sairmos do level anterior usamos `CRTRL + d` .
+Usamos essa senha para logarmos no bandit1 :
 ~~~
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 ~~~
